@@ -1,0 +1,28 @@
+
+  Gruppo 2- aprire un pacchetto di figurine:
+  
+    -1- prendo in mano il pacchetto
+    
+    	- apro il pacchetto
+  	
+   	 - rimuovo le figurine
+     		
+	  -sfoglio le figurine
+    
+-2-prendo l'album
+	
+	- apro l'album
+
+	-sfoglio le pagine 
+ 	
+ -3-controllo quali figurine sono presenti nell'album
+
+	-se la figurina è presente nell'album la scarto nel mazzo dei doppioni
+
+	-altrimenti la inserisco nell'album
+  		
+		-stacco l'adesivo
+		
+		-incollo la figurina nel riquadro
+
+	
